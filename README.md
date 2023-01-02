@@ -96,3 +96,6 @@ If you find our work helps, please use the following BibTeX entry for citation.
   year={2022}
 }
 ```
+
+Paper: https://arxiv.org/abs/2212.09737v1
+Dataset: https://paperswithcode.com/dataset/visual-genome
